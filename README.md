@@ -55,5 +55,3 @@ By completing this project, you will learn how to:
 - Implement **CI/CD** with CodePipeline and CodeDeploy for automated deployments.
 
 ---
-
-## 📂 Repository Structure (suggested)
